@@ -11,3 +11,5 @@
 - [Плохой макрос](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/558c8391e538858c8c7410200655de57fd12c4d5/Week%201/%D0%9F%D0%BB%D0%BE%D1%85%D0%BE%D0%B9%20%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%81/print_values.cpp)
 
 - [Дек на основе двух векторов](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/f7b8b36ce8d63317282c210f090c1b9207902b5c/Week%201/Deque.cpp)
+
+- [Шаблон Paginator](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/d1c0baf0146f16defe1739eb9ee5758542bd1bb4/Week%201/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20Paginator/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20Paginator.cpp)
