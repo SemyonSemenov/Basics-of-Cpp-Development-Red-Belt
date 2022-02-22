@@ -91,14 +91,7 @@ void TestLooping() {
         os << '\n';
     }
 
-    // ASSERT_EQUAL(os.str(), "1 2 3 4 5 6 \n7 8 9 10 11 12 \n13 14 15 \n");
-    // раскроетс€ в код ниже:
-    {
-        ostringstream os;
-        os << os.str() << " != " << "1 2 3 4 5 6 \n7 8 9 10 11 12 \n13 14 15 \n" << ", "
-            << "[здесь будет им€ вашего файла]" << ":" << 45;
-        AssertEqual(os.str(), "1 2 3 4 5 6 \n7 8 9 10 11 12 \n13 14 15 \n", os.str());
-    }
+    ASSERT_EQUAL(os.str(), "1 2 3 4 5 6 \n7 8 9 10 11 12 \n13 14 15 \n");
 }
 
 void TestModification() {
