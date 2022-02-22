@@ -12,4 +12,4 @@
 
 - [Дек на основе двух векторов](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/f7b8b36ce8d63317282c210f090c1b9207902b5c/Week%201/Deque.cpp)
 
-- [Шаблон Paginator](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/d1c0baf0146f16defe1739eb9ee5758542bd1bb4/Week%201/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20Paginator/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20Paginator.cpp)
+- [Шаблон Paginator](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/c334fdcfadfacf2338ed7fc92ba14ec8fcaf3aa3/Week%201/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20Paginator/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20Paginator.cpp)
