@@ -20,4 +20,4 @@
 
 - [Сортировка студентов по рейтингу](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/2a8cecec811feebc3049beaefe213c5e1ea3379f/Week%202/%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%BF%D0%BE%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D1%83/sort_students.cpp)
 
-- [Изучение нового языка](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/5305f98fae9dee669671af96dabc327a839198e7/Week%202/learner.cpp)
+- [Изучение нового языка](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/54c7fa854b6541dbfd2d8907a842014e37193928/Week%202/learner.cpp)
