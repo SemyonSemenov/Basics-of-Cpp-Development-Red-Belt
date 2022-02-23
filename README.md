@@ -24,6 +24,6 @@
 
 - [Экспрессы](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/a7971fc555b2077503b7acd101701a4384f7b16a/Week%202/expresses.cpp)
 
-- [Электронная книга]()
+- [Электронная книга](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/56c2554fc93b4562c0bfa2bd1836d4e4f2fb759a/Week%202/ebook.cpp)
 
 - [Система бронирования отелей]()
