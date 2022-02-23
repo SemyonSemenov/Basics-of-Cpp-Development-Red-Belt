@@ -22,4 +22,4 @@
 
 - [Изучение нового языка](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/54c7fa854b6541dbfd2d8907a842014e37193928/Week%202/learner.cpp)
 
-- [Экспрессы]()
+- [Экспрессы](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/a7971fc555b2077503b7acd101701a4384f7b16a/Week%202/expresses.cpp)
