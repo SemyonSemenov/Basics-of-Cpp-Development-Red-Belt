@@ -26,4 +26,4 @@
 
 - [Электронная книга](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/56c2554fc93b4562c0bfa2bd1836d4e4f2fb759a/Week%202/ebook.cpp)
 
-- [Система бронирования отелей]()
+- [Система бронирования отелей](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Red-Belt/blob/7125b0767bedb5d7953107e57e3697d2dd7654c4/Week%202/booking.cpp)
